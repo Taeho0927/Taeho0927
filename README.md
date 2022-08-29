@@ -20,7 +20,7 @@
   현재 대학교에 재학중이며 주말에는 IT아카데미에서 웹개발자 과정을 수강하고 있습니다.<br>
 <hr>
 
-![Taeho0927's github stats](https://github-readme-stats.vercel.app/api?username=Taeho0927&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeho0927&layout=compact&theme=dark)
+![Taeho0927's github stats](https://github-readme-stats.vercel.app/api?username=Taeho0927&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeho0927&layout=compact&theme=dark)
 
 ## 💻 about me 
 
