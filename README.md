@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Taeho0927/Taeho0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Taeho%20GIL&fontSize=80)
 
 ## 📝 Tech Stack
