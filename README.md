@@ -12,9 +12,7 @@
 <br>
 <hr>
   🙋‍♂️ 안녕하세요!<br>
-  이름은 "길태호" 이며<br>
-  웹개발자가 되기 위해 자바를 기반으로한 백엔드공부와 기초 프론트엔드 지식을 공부하고있습니다.<br>
-  현재 대학교에 재학중이며 주말에는 IT아카데미에서 웹개발자 과정을 수강하고 있습니다.<br>
+  백엔드 개발자 "길태호" 입니다!
 <hr>
 
 ![Taeho0927's github stats](https://github-readme-stats.vercel.app/api?username=Taeho0927&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeho0927&layout=compact&theme=dark)
