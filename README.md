@@ -34,4 +34,4 @@
 
 ## 💻 About me
 
-<img src="https://img.shields.io/badge/rlfxogh990927@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> [![인스타그램바로가기](https://camo.githubusercontent.com/eb36dd6ad9e6025d29ed356fa43e2c7aac6c5b41156e61038d7d56ce423d7288/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/taeho_kil_dv/)
+<img src="https://img.shields.io/badge/rlfxogh0927@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> [![인스타그램바로가기](https://camo.githubusercontent.com/eb36dd6ad9e6025d29ed356fa43e2c7aac6c5b41156e61038d7d56ce423d7288/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/taeho_kil_dv/)
