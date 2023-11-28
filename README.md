@@ -30,7 +30,7 @@
   백엔드 개발자 "길태호" 입니다!
 <hr>
 
-![Taeho0927's github stats](https://github-readme-stats.vercel.app/api?username=Taeho0927&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeho0927&layout=compact&theme=dark)
+![Taeho0927's github stats](https://github-readme-stats.vercel.app/api?username=Taeho0927&show_icons=true)
 
 ## 💻 About me
 
