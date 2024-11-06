@@ -24,7 +24,7 @@
 ><img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
 
 > ### 📚현재 학습중
-> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">➕➕
+> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
 <hr>
   백엔드 개발자 "길태호" 입니다!
@@ -34,4 +34,4 @@
 
 ## 💻 About me
 
-<img src="https://img.shields.io/badge/rlfxogh0927@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> [![인스타그램바로가기](https://camo.githubusercontent.com/eb36dd6ad9e6025d29ed356fa43e2c7aac6c5b41156e61038d7d56ce423d7288/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/taeho_kil_dv/)
+<img src="https://img.shields.io/badge/rlfxogh0927@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
