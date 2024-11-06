@@ -32,6 +32,6 @@
 
 ![Taeho0927's github stats](https://github-readme-stats.vercel.app/api?username=Taeho0927&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeho0927&layout=compact&theme=dark)
 
-## 💻 About me
+## 💻 Contact
 
 <img src="https://img.shields.io/badge/rlfxogh0927@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
